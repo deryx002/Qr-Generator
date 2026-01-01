@@ -21,8 +21,3 @@ Users can enter text or a URL, generate a QR code, and download it instantly.
 - qrcode (PIL)
 - HTML / CSS
 - Gunicorn
-
----
-
-## 📂 Project Structure
-
